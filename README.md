@@ -1,4 +1,4 @@
-# START
+# Project
 int1
 What the project does
 Why the project is useful
